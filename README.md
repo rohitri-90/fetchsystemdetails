@@ -1,4 +1,4 @@
-This is a simple utility written in golang to fetch the details about system using [macaddress.io](https://macaddress.io/)
+This is a simple utility written in golang to fetch the details about a system using [macaddress.io](https://macaddress.io/)
 
 ### Prerequisite
 * Docker and git needs to be installed
