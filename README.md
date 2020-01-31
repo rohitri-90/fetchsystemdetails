@@ -1,8 +1,12 @@
-This is a simple utility written in golang to fetch the details about macbook using [macaddress.io](https://macaddress.io/)
+This is a simple utility written in golang to fetch the details about system using [macaddress.io](https://macaddress.io/)
+
+### Prerequisite
+* Docker and git needs to be installed
+
 
 ### Building docker image
 
-* clone the `repository`using git clone <URL>
+* clone the `repository` using `git clone https://github.com/rohitri-90fetchsystemdetails.git`
 * Navingate to the cloned directory and execute below commands :
 * `docker build -t  fetchmacdetails:latest .`
 
